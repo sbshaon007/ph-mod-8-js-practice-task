@@ -23,5 +23,5 @@ else if(month === 9 || month === 10 || month === 11 || month === 12) {
 
 else {
 
-    console.log("Invalid month");
+    console.log("Invalid Month");
 }
