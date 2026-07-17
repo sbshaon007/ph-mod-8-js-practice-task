@@ -1,3 +1,5 @@
+// Task:6 Take a year variable and check whether it is a leap year (hint: year % 4 === 0).
+
 let year1 = 2022;
 let year2 = 2024;
 
